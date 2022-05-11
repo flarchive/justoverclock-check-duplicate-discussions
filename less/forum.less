@@ -1,0 +1,94 @@
+.simdisc-container {
+  z-index: 5000;
+  border-radius: 5px;
+  background: @primary-color;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+.simdisc > li {
+  list-style-type: none;
+}
+i.fas.fa-exclamation.sim {
+  margin-right: 8px;
+  color: coral;
+}
+p.simtitle {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+}
+i.fas.fa-check-circle.simsolved {
+  color: white;
+}
+p.simtitle-desc {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+a.simlink {
+  color: greenyellow;
+}
+.composer {
+  position: relative;
+}
+.DiscussionListItem {
+  z-index: 1 !important;
+}
+body when (@config-dark-mode = false) {
+  p.simtitle-desc {
+    color: white;
+  }
+  p.simtitle {
+    color: white;
+  }
+  i.fas.fa-exclamation.sim {
+    color: white;
+  }
+}
+li.item-similardisc {
+  display: block;
+  padding: 0.6rem;
+}
+
+div#simDisc {
+  z-index: 8500 !important;
+  position: fixed;
+  max-width: 850px;
+  margin-right: 1.5rem;
+  animation: fadeInRight 1s ease-in-out;
+}
+.simdisc-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.simdisc-close {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.DiscussionListItem-content {
+  z-index: 500;
+}
+@media (max-width: 767px) {
+  .simdisc-container {
+    display: none;
+  }
+}
+
+
+.fade-in {
+  opacity: 1;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: .3s;
+}
+
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
