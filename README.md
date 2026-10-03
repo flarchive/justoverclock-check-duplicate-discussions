@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/check-duplicate-discussions.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/check-duplicate-discussions) or the [upstream repository](https://github.com/justoverclockl/check-duplicate-discussions).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.2.0`
+**11** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-05-07 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-05-08 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-05-08 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-05-11 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.6) |
+| `0.1.7` | 2022-05-12 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.7) |
+| `0.1.8` | 2022-05-12 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.8) |
+| `0.1.9` | 2022-05-12 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tree/archive/v0.1.9) |
+
+[View all 11 versions](https://github.com/flarchive/justoverclock-check-duplicate-discussions/tags)
 
 Catalog entry: [packages/justoverclock-check-duplicate-discussions.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-check-duplicate-discussions.json)
 
